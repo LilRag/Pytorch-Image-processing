@@ -4,6 +4,7 @@ This is a simplified version of the popular VGG (Visual Geometry Group) convolut
 
 Dataset:
 This model was trained and evaluated using the MNIST (Modified National Institute of Standards and Technology) handwritten digit dataset. The MNIST dataset consists of 60,000 training images and 10,000 test images of handwritten digits (0-9), with each image being 28x28 pixels in size.
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset/data
 
 Model Architecture:
 The simplified VGG model consists of the following layers:
