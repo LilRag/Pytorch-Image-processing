@@ -1,6 +1,10 @@
 # Pytorch-Image-processing
 Simplified VGG Image Classification Model
 This is a simplified version of the popular VGG (Visual Geometry Group) convolutional neural network model for image classification tasks. The original VGG model was introduced by the University of Oxford's Visual Geometry Group and has been widely used for various computer vision applications.
+
+Dataset
+This model was trained and evaluated using the MNIST (Modified National Institute of Standards and Technology) handwritten digit dataset. The MNIST dataset consists of 60,000 training images and 10,000 test images of handwritten digits (0-9), with each image being 28x28 pixels in size.
+
 Model Architecture
 The simplified VGG model consists of the following layers:
 
