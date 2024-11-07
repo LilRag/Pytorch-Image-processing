@@ -6,7 +6,7 @@ The simplified VGG model consists of the following layers:
 
 Convolutional Layers:
 
-3 convolutional layers with 32, 64, and 128 filters, respectively
+1 convolutional layers with 32, 64, and 128 filters, respectively
 3x3 kernel size with padding to preserve spatial information
 ReLU activation function
 2x2 max-pooling layers to reduce spatial dimensions
